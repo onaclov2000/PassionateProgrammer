@@ -1,7 +1,7 @@
 # The Passionate Programmer #
 ## By Chad Fowler ##
 
-Data Compiled by [onaclov2000](http://twitter.com/onaclov2000),http://blog.onaclovtech.com, with approval from Mr. Fowler :)
+Data Compiled by Tyson Bailey,[onaclov2000](http://twitter.com/onaclov2000), http://blog.onaclovtech.com, with approval from Mr. Fowler :)
 
 This is a list of the tips from book.
 
@@ -68,6 +68,7 @@ TBD
 + Chad Fowler, Author, [@chadfowler](http://www.twitter.com/chadfowler),http://chadfowler.com
 + David Heinemeier Hansson, Foreward,  [@dhh](http://www.twitter.com/dhh),http://david.heinemeierhansson.com
 + Bob Martin, Comments, [@unclebobmartin](http://www.twitter.com/unclebobmartin), http://cleancoder.com
+
 TBD
 
 
