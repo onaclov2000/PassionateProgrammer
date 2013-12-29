@@ -56,3 +56,13 @@ This is a list of the tips from book.
 51. Avoid Waterfall Career Planning
 52. Better Than Yesterday
 53. Go Independent
+
+## Links from the Book: ##
+TBD
+
+## Important People | Mentioned: ##
+(I find it amazing that today you can follow and interact with a books author in minutes on twitter, so I'm providing links to anyone I can find that is mentioned in the book, twitter and/or website, if you catch any I missed, which I expect there to be a lot, please pull and I'll merge in).
+
++ Chad Fowler, Author, [@chadfowler](http://www.twitter.com/chadfowler),http://chadfowler.com
++ David Heinemeier Hansson, Foreward,  [@dhh](http://www.twitter.com/dhh),http://david.heinemeierhansson.com
++ Bob Martin, Comments, [@unclebobmartin](http://www.twitter.com/unclebobmartin), http://cleancoder.com
