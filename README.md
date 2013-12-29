@@ -69,3 +69,6 @@ TBD
 + David Heinemeier Hansson, Foreward,  [@dhh](http://www.twitter.com/dhh),http://david.heinemeierhansson.com
 + Bob Martin, Comments, [@unclebobmartin](http://www.twitter.com/unclebobmartin), http://cleancoder.com
 TBD
+
+
+* The attached twitter.json object I am hoping will eventually amount to being able to "bulk add" twitter users to follow if for example you want to follow everyone related to this book (and others). Let me know if you're interested in building such a thing. (I may if/when I have time unless someone beats me to it)
