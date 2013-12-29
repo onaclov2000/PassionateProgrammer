@@ -1,6 +1,8 @@
 # The Passionate Programmer #
 ## By Chad Fowler ##
 
+Data Compiled by [onaclov2000](http://twitter.com/onaclov2000),http://blog.onaclovtech.com, with approval from Mr. Fowler :)
+
 This is a list of the tips from book.
 
 1. Lead or Bleed
