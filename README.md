@@ -15,7 +15,7 @@ This is a list of the tips from book.
 6. Don't Listen To Your Parents
 7. Be A Generalist
 8. Be A Specialist
-9. Don't Put All Your Eggs In Someone Else's Basket
+9. Don't Put All Your Eggs In Someone Else's Basket [excerpt](http://chadfowler.com/passionate-programmer/eggs.html)
 10. Love It Or Leave It
 11. Learn To Fish
 12. Learn How Businesses Really Work
@@ -37,7 +37,7 @@ This is a list of the tips from book.
 28. Eight Hour Burn
 29. Learn How To Fail
 30. Say "No"
-31. Don't Panic
+31. Don't Panic [excerpt](http://chadfowler.com/passionate-programmer/panic.html)
 32. Say It, Do It, Show It
 33. Perceptions, Perschmeptions
 34. Adventure Tour Guide
@@ -56,7 +56,7 @@ This is a list of the tips from book.
 47. Make Yourself a Map
 48. Watch the Market
 49. That Fat Man in the Mirror
-50. The South Indian Monkey Trap
+50. The South Indian Monkey Trap [excerpt](http://chadfowler.com/passionate-programmer/)
 51. Avoid Waterfall Career Planning
 52. Better Than Yesterday
 53. Go Independent
