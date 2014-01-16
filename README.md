@@ -10,8 +10,8 @@ This is a list of the tips from book.
 1. Lead or Bleed
 2. Supply and Demand
 3. Coding Doesn't Cut It Anymore
-4. Be The Worst
-5. Invest in Your Own Intelligence
+4. Be The Worst [excerpt](http://media.pragprog.com/titles/cfcar2/worst.pdf)
+5. Invest in Your Own Intelligence [excerpt](http://media.pragprog.com/titles/cfcar2/intelligence.pdf)
 6. Don't Listen To Your Parents
 7. Be A Generalist
 8. Be A Specialist
@@ -57,8 +57,8 @@ This is a list of the tips from book.
 48. Watch the Market
 49. That Fat Man in the Mirror
 50. The South Indian Monkey Trap [excerpt](http://chadfowler.com/passionate-programmer/)
-51. Avoid Waterfall Career Planning
-52. Better Than Yesterday
+51. Avoid Waterfall Career Planning [excerpt](http://media.pragprog.com/titles/cfcar2/waterfall.pdf)
+52. Better Than Yesterday [excerpt](http://media.pragprog.com/titles/cfcar2/yesterday.pdf)
 53. Go Independent
 
 ## Links from the Book: ##
