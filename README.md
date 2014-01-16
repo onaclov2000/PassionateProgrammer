@@ -1,6 +1,8 @@
 # The Passionate Programmer #
 ## By Chad Fowler ##
 
+Buy @ Amazon [here](http://amzn.com/1934356344/?tag=nosu-20)
+
 Data Compiled by Tyson Bailey,[onaclov2000](http://twitter.com/onaclov2000), http://blog.onaclovtech.com, with approval from Mr. Fowler :)
 
 This is a list of the tips from book.
